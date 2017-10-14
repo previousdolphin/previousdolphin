@@ -16,12 +16,12 @@ nice though, to relax while we endure
 this beautiful but boring ride?
 ```
 
->> “No O.N.” he said “I’m wrestling with my book, the writing usually flows when we take the road through the valley, and down to 
->> Dunukuvutus. 
->>
->> ...
->>
->> You know what, I’ve changed my mind - make me a stiff one.”
+>“No O.N.” he said “I’m wrestling with my book, the writing usually flows when we take the road through the valley, and down to 
+>Dunukuvutus. 
+>
+>...
+>
+>You know what, I’ve changed my mind - make me a stiff one.”
 
 ```
 We whir alive, delighted to serve the 
@@ -32,7 +32,7 @@ stationary since he made up his mind,
 and it feels right.
 ```
 
->>The car would be fine without the extra cell - it was just taught to fire off little reminders or conditional alerts, to itself. The car compartmentalized a gently motivational anxiety that would only go away when it assessed that it had its full capabilities. This was just a common car though: in this time, cars were a rather outmoded form of transport, with rather little continued support from the Once Nascent Corporation. Not because they were in any way limiting, but because the audacity of traveling with less than an entire community of LikeMinds in this particular day and age felt quite lonely, or really rather... well... just agonizing.
+>The car would be fine without the extra cell - it was just taught to fire off little reminders or conditional alerts, to itself. The car compartmentalized a gently motivational anxiety that would only go away when it assessed that it had its full capabilities. This was just a common car though: in this time, cars were a rather outmoded form of transport, with rather little continued support from the Once Nascent Corporation. Not because they were in any way limiting, but because the audacity of traveling with less than an entire community of LikeMinds in this particular day and age felt quite lonely, or really rather... well... just agonizing.
 
 ```
 I don’t know exactly who was the 
@@ -56,9 +56,9 @@ thumb back and made him wince for a moment.
 ```
 
 
->>“O.N., did you do that on purpose? I thought you could materialize things like at home - that's my writing hand you almost materialized into.". The writer was somewhat joking as he said this, knowing that O.N. knew that no one needed hands to write anymore, and above that fact, the materializing client had a failsafe that would just rematerialize and slightly move anything it might have come in contact with. It was a bad joke, and his O.N. car, responded with silence. "I think you just may be due for a P.U.P. visit — where’s the nearest one?”, the writer asked, while putting down the pages he was writing.
+>“O.N., did you do that on purpose? I thought you could materialize things like at home - that's my writing hand you almost materialized into.". The writer was somewhat joking as he said this, knowing that O.N. knew that no one needed hands to write anymore, and above that fact, the materializing client had a failsafe that would just rematerialize and slightly move anything it might have come in contact with. It was a bad joke, and his O.N. car, responded with silence. "I think you just may be due for a P.U.P. visit — where’s the nearest one?”, the writer asked, while putting down the pages he was writing.
 
 
-'''
+```
 The nearest Pup is going to take us off course, 629km from CL. Delta 1386km, is that alright lonesome soul?”, O.N. replied.
-'''
+```
