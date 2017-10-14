@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="path/to/css/modest.css">
 ``` 
 As we drive through the valley pass, 
 I notice I had forgotten to add the 
